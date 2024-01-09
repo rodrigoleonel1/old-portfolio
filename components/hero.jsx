@@ -16,7 +16,7 @@ export default function Hero() {
     <Container className="grid grid-cols-10 gap-3 items-center">
       <article className="m-auto col-span-10 md:col-span-7">
         <h1
-          className={`text-6xl bg-gradient-to-r from-emerald-500 to-cyan-500 bg-clip-text text-transparent ${AbrilFatface.className} sm:text-[4rem] col-span-10 pb-2`}
+          className={`text-7xl bg-gradient-to-r from-emerald-500 to-cyan-500 bg-clip-text text-transparent ${AbrilFatface.className} sm:text-[4rem] col-span-10 pb-2`}
         >
           Rodrigo Alarcón.
         </h1>
